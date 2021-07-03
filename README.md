@@ -10,6 +10,7 @@ STEP#1: DOWNLOAD TESSERACT OCR:
 64 bit installation: https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20191030.exe
 
 STEP#2: SET PATH
+
 STEP#3: INSTALL LIBRARIES
 !pip install pillow
 !pip install pil
